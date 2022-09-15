@@ -4,8 +4,8 @@ Referência: Livro Deep Learning with Python - Autor: François Chollet [2018] -
 Capítulo 5 - Deep learning for computer vision<p>
 Tópicos:<p>
 -  Using a pretrained convnet to do feature extraction<p>
--  Fine-tuning a pretrained convnet
-
+-  Fine-tuning a pretrained convnet<p>
+Dataset: www.kaggle.com/c/dogs-vs-cats/data<p>
 
 Dieine Bernieri Schiavon<p>
 Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)<p>
